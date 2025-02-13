@@ -237,7 +237,7 @@ export default function Home() {
                 РАСЧЁТНЫЙ СЧЕТ 000000000000000000
               </p>
               <p className={styles.footerText}>КОР СЧЕТ 000000000000000000</p>
-              <p className={styles.footerText}>ТЕЛ: +7(905)899-45-73</p>
+              <p className={styles.footerText}>ТЕЛ: +7(00)000-00-00</p>
             </div>
           </div>
 
