@@ -31,14 +31,14 @@ export default function Home() {
     img12.src,
     img13.src,
     img14.src,
-    img10.src,
-    img1.src,
-    img2.src,
-    img3.src,
-    img5.src,
-    img6.src,
-    img7.src,
-    img8.src,
+    // img10.src,
+    // img1.src,
+    // img2.src,
+    // img3.src,
+    // img5.src,
+    // img6.src,
+    // img7.src,
+    // img8.src,
   ];
 
   const openImageViewer = useCallback((index) => {
@@ -69,7 +69,7 @@ export default function Home() {
             </a>
           </div>
           <div>
-            {/* Тел: <a href={"tel:+7(905)8994573"}>+7(905)899-45-73 (WhatsApp)</a> */}
+            Тел: <a href={"tel:+7(909)6060390"}>+7(909)6060390 (WhatsApp)</a>
           </div>
           <div>
             {/* email: */}
